@@ -1,0 +1,16 @@
+{
+  "Group": "dev.stefu",
+  "Name": "HyCord",
+  "Version": "1.0.0",
+  "Description": "Simple Discord Webhooks for Hytale!",
+  "Authors": [
+    {
+      "Name": "StefuDev"
+    }
+  ],
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "dev.stefu.hycord.HyCordPlugin"
+}
